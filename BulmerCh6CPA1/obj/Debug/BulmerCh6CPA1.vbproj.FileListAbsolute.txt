@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\bin\Debug\BulmerCh6CPA1.exe.config
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\bin\Debug\BulmerCh6CPA1.exe
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\bin\Debug\BulmerCh6CPA1.pdb
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\bin\Debug\BulmerCh6CPA1.xml
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.frmRainfall.resources
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.Resources.resources
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.exe
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.xml
+C:\Users\mdbul\source\repos\BulmerCh6CPA1\obj\Debug\BulmerCh6CPA1.pdb
